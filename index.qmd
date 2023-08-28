@@ -1,0 +1,35 @@
+---
+title: "Organizing Community Calls using GitHub"
+subtitle: "Yani Bellini Saibene, rOpenSci Community Manager"
+format:
+  revealjs: 
+    theme: [default]
+    logo: images/lettering_black.svg
+    footer: Esta charla está en <https://rocp2324.netlify.app>  
+---
+
+## rOpenSci {.smaller}
+
+We foster a culture that values __open and reproducible research__ using shared data and reproducible software for everyone built by everyone. And we do it by creating __technical and social infrastructure__.
+
+:::: {.columns}
+
+::: {.column width="60%"}
+::: {.incremental}
+- Creating a suite of carefully vetted, federated R software tools.
+- Making the right data, tools and best practices more discoverable.
+- Nurturing a welcoming and diverse community.
+- Building capacity of software users and developers and fostering a sense of pride in their work. 
+- Promoting advocacy for a culture of data sharing and reusable software.
+:::
+:::
+
+::: {.column width="40%"}
+![](images/use_github.png) 
+:::
+
+::::
+
+::: footer
+<https://ropensci.org>
+:::
