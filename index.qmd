@@ -5,7 +5,7 @@ format:
   revealjs: 
     theme: [default]
     logo: images/lettering_black.svg
-    footer: This talk is at <https://rocp2324.netlify.app>  
+    footer: Slides <https://commcallgh.netlify.app>  
 ---
 
 ## rOpenSci {.smaller}
@@ -36,7 +36,7 @@ We foster a culture that values __open and reproducible research__ using shared 
 
 ## Community Calls {.smaller}
 
-__Quarterly One hour online__ events with 2-5 speakers, 1 moderator and Q&A time. 
+__Quarterly one hour online__ events with 2-5 speakers, 1 moderator and Q&A time. 
 
 The main goal of __strengthening__ our community.
 
@@ -48,12 +48,15 @@ The main goal of __strengthening__ our community.
 * bringing different stakeholders’ perspectives to light, 
 * identifying unmet needs on a topic,
 * reinforcing our mission and values.
+
+* R users and developers (22-91 attendes from 11-15 countries). Academia, government, industry, and non-profit.
 :::
 :::
 
 ::: {.column width="40%"}
 
-![](images/charlando.png) 
+![](images/charlando.png)
+
 :::
 
 ::::
@@ -64,16 +67,11 @@ The main goal of __strengthening__ our community.
 :::
 
 
-# __Why GitHub?__ 
-
-_Meet your members where they are_ 
-
-
 ## rOpenSci member's point of view
 
 #### How do I find out about what happened?
 
-![](images/discuss.svg) [Community Call Webpage](https://ropensci.org/commcalls/)
+![](images/event.svg) [Community Call Webpage](https://ropensci.org/commcalls/)
 
 #### How do I find out what's going to happen?
 
@@ -84,6 +82,44 @@ _Meet your members where they are_
 ![](images/chating.svg) [Public ideas repository](https://github.com/ropensci-org/community-calls/issues)
 
 
-## community Manager point of view
+## Community Manager point of view
 
-Crowdsourcing ideas through _issues_
+![](images/discuss.svg) Crowdsourcing ideas (public repo)
+
+
+![](images/open-review.svg) [Manage the process (private repo)](https://github.com/rosadmin/comms/issues) 
+
+
+ ... through _issues_ and _issues templates (check list)_
+
+
+# __Why GitHub?__ 
+
+__Meet your members where they are__
+
+::: {.incremental}
+* Diferent levels of notifications (email, slack integration).
+* Transparent and open (public repo).
+* No need for onboarding or ...
+* ... good first contribution using the platform (important if you want to develop/review software)
+* [Screen reader friendly](https://github.blog/2023-05-11-navigation-and-search-improvements-for-accessibility/) 
+
+::: 
+
+## ¡Gracias, Thank you!{.smaller}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+- Slides: <https://commcallgh.netlify.app>
+- Slide source code on GitHub: <https://github.com/yabellini/commcallgithub>
+- The pictures are adaptation by my 7yo son and me to [images by Freepik](https://www.freepik.com/free-vector/hand-drawn-colorful-stickman-collection_20884529.htm) on [hand drawn style stickman set](https://www.freepik.com/free-vector/hand-drawn-style-stickman-set_20884532.htm)
+- I use R, excalidraw and quarto for build this talk.
+
+:::
+
+::: {.column width="40%"}
+![](images/hi-five.png)
+:::
+
+::::
