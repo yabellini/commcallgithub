@@ -5,7 +5,7 @@ format:
   revealjs: 
     theme: [default]
     logo: images/lettering_black.svg
-    footer: Esta charla está en <https://rocp2324.netlify.app>  
+    footer: This talk is at <https://rocp2324.netlify.app>  
 ---
 
 ## rOpenSci {.smaller}
@@ -33,3 +33,57 @@ We foster a culture that values __open and reproducible research__ using shared 
 ::: footer
 <https://ropensci.org>
 :::
+
+## Community Calls {.smaller}
+
+__Quarterly One hour online__ events with 2-5 speakers, 1 moderator and Q&A time. 
+
+The main goal of __strengthening__ our community.
+
+:::: {.columns}
+
+::: {.column width="60%"}
+::: {.incremental}
+* informing people on technical and social topics, 
+* bringing different stakeholders’ perspectives to light, 
+* identifying unmet needs on a topic,
+* reinforcing our mission and values.
+:::
+:::
+
+::: {.column width="40%"}
+
+![](images/charlando.png) 
+:::
+
+::::
+
+
+::: footer
+<https://ropensci.org/commcalls/>
+:::
+
+
+# __Why GitHub?__ 
+
+_Meet your members where they are_ 
+
+
+## rOpenSci member's point of view
+
+#### How do I find out about what happened?
+
+![](images/discuss.svg) [Community Call Webpage](https://ropensci.org/commcalls/)
+
+#### How do I find out what's going to happen?
+
+![](images/calendart.svg) [Event List](https://ropensci.org/events/)
+
+#### How do I contribute to what is going to happen?
+
+![](images/chating.svg) [Public ideas repository](https://github.com/ropensci-org/community-calls/issues)
+
+
+## community Manager point of view
+
+Crowdsourcing ideas through _issues_
