@@ -1,2 +1,3 @@
-# commcallgithub
-Talk for CSCCE about how we use GitHub to organize community calls.
+# Organizing Community Calls using GitHub
+
+Talk for CSCCE's Tools Trial session on "Facilitating community activities using GitHub"
