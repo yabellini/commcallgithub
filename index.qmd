@@ -5,7 +5,8 @@ format:
   revealjs: 
     theme: [default]
     logo: images/lettering_black.svg
-    footer: Slides <https://commcallgh.netlify.app>  
+    footer: Slides <https://commcallgh.netlify.app>
+    preview-links: true  
 ---
 
 ## rOpenSci {.smaller}
